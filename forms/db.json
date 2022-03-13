@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Ayush",
+      "age": "19",
+      "address": "RZ-25 Jain colony part 3 Uttam Nagar west",
+      "department": "IT",
+      "marital": "single",
+      "id": 1
+    },
+    {
+      "name": "aknaksha",
+      "age": "21",
+      "address": "RZ-25 Jain colony part 3 Uttam Nagar west",
+      "department": "Bio-chem",
+      "marital": "single",
+      "id": 2
+    },
+    {
+      "name": "Ayush",
+      "age": "22",
+      "address": "RZ-25 Jain colony part 3 Uttam Nagar west",
+      "department": "ssa",
+      "marital": "married",
+      "id": 3
+    },
+    {
+      "name": "pranjal",
+      "age": "23",
+      "address": "Chandrapur",
+      "department": "IT",
+      "marital": "hijda",
+      "id": 4
+    },
+    {
+      "name": "pratik",
+      "age": "23",
+      "address": "Ch",
+      "department": "",
+      "marital": "",
+      "id": 5
+    },
+    {
+      "name": "ankit",
+      "age": "23",
+      "address": "BIHAR",
+      "department": "IT",
+      "marital": "hijda",
+      "id": 6
+    },
+    {
+      "name": "rahul",
+      "age": "32",
+      "address": "",
+      "department": "",
+      "marital": "",
+      "id": 7
+    }
+  ]
+}
